@@ -1,0 +1,1 @@
+# ejudge_generator
